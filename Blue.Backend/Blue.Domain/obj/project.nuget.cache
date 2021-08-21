@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ALWRQAmCoyqSX8fKd+q1oCYsVcu4tf382P7uZwal/3mGgIzqxWbm6idMkF0ssO/9h5h8AuYMqki4LOMp4J5DDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luciano.arruda\\source\\repos\\Blue\\src\\Blue.Backend\\Blue.Domain\\Blue.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luciano.arruda\\.nuget\\packages\\fluentvalidation\\9.0.0\\fluentvalidation.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
